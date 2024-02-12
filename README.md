@@ -1,1 +1,1 @@
-find the code in main.cpp file and classes in Model folder
+find the code in main.cpp file and classes in Models folder
